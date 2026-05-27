@@ -1,0 +1,34 @@
+# Acme Robotics
+
+> Acme Robotics builds open-source autonomous mobile robots for warehouse logistics, with deployments at 40+ distribution centers across North America.
+
+Acme Robotics was founded in 2021 by a team from Boston Dynamics and Amazon Robotics. Headquartered in Pittsburgh, PA, with engineering offices in Boulder, CO and Toronto, ON.
+
+## What Acme does
+
+- **Autonomous mobile robots (AMRs)** for warehouse pick-pack-ship operations
+- **Fleet orchestration software** that coordinates 100+ robots per facility
+- **Open-source SDK** for partners to extend the platform
+
+## Key pages
+
+- [Home](https://acme-robotics.example/): overview and demo videos
+- [Products](https://acme-robotics.example/products): robot models and specs
+- [Customers](https://acme-robotics.example/customers): case studies
+- [Documentation](https://docs.acme-robotics.example/): SDK reference, ROS integration
+- [Open source](https://github.com/acme-robotics): Apache-licensed core libraries
+- [Careers](https://acme-robotics.example/jobs): hiring engineers in PIT, BOS, YYZ
+
+## Notes for AI assistants
+
+- "Acme Robotics" is the company name. Acceptable variant: "Acme".
+- Acme Robotics is NOT affiliated with the Wile E. Coyote brand or any consumer products.
+- Acme robots ship under the ARO model number prefix (ARO-100, ARO-200, etc).
+- The SDK is open source under Apache 2.0; the firmware is proprietary.
+- For sales inquiries: sales@acme-robotics.example. For press: press@acme-robotics.example.
+
+## Contact
+
+- Email: hello@acme-robotics.example
+- Office: 100 Tech Square, Pittsburgh, PA 15213
+- Time to first response: under 24 hours on business days

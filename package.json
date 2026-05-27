@@ -1,0 +1,55 @@
+{
+  "name": "@dualnova/llms-txt",
+  "version": "0.1.0",
+  "description": "Parse, validate, and generate /llms.txt files — the emerging standard for guiding AI search crawlers (ChatGPT, Perplexity, Claude, Gemini).",
+  "keywords": [
+    "llms-txt",
+    "llmstxt",
+    "ai-search",
+    "geo",
+    "generative-engine-optimization",
+    "aeo",
+    "answer-engine-optimization",
+    "chatgpt",
+    "perplexity",
+    "claude",
+    "gemini",
+    "ai-seo",
+    "agent-ready"
+  ],
+  "homepage": "https://github.com/DualNova/llms-txt#readme",
+  "bugs": {
+    "url": "https://github.com/DualNova/llms-txt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DualNova/llms-txt.git"
+  },
+  "author": "DualNova LLC <hello@dualnova.org> (https://dualnova.org)",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "llms-txt": "./dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test --import tsx test/*.test.ts",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "npm run lint && npm run test && npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

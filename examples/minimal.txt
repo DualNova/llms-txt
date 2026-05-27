@@ -1,0 +1,9 @@
+# Example Site
+
+> A short, one-sentence summary of what this site is and who it is for.
+
+## Key pages
+
+- [Home](https://example.com/): main landing page
+- [About](https://example.com/about): team and mission
+- [Pricing](https://example.com/pricing)
